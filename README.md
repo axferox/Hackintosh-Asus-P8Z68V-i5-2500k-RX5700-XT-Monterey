@@ -4,7 +4,7 @@ Due to the fact that this MB is totally obsolete you have to init boot file on y
 To do that you have to use the OpenCore/Utilities/LegacyBoot/BootInstall_X64.tool which can gain from Dortania OpenCore releases:
 1. Open terminal
 2. Run the BootInstall_X64.tool with sudo via drag and drop
-3. Select the disk you want to make a bootable
+3. Select the disk with your EFI folder
 
 Then you have to generate SMBIOS
 
