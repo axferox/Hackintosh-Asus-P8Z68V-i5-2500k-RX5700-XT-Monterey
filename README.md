@@ -5,3 +5,5 @@ To do that you have to use the OpenCore/Utilities/LegacyBoot/BootInstall_X64.too
 1. Open terminal
 2. Run the BootInstall_X64.tool with sudo via drag and drop
 3. Select the disk you want to make a bootable
+
+Then you have to generate SMBIOS
