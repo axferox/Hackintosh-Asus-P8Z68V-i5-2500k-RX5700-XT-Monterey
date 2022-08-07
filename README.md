@@ -5,7 +5,6 @@ To do that you have to use the OpenCore/Utilities/LegacyBoot/BootInstall_X64.too
 1. Open terminal
 2. Run the BootInstall_X64.tool with sudo via drag and drop
 3. Select the disk with your EFI folder
-
-Then you have to generate SMBIOS
+4. Generate SMBIOS for MacPro6,1
 
 I'm using wireless PCI card with MacOS native support, so take into account that LAN board adapter is not working and you have to fix it by yourself in post install.
