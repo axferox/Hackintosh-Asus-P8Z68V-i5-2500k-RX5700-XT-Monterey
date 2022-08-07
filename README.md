@@ -7,3 +7,5 @@ To do that you have to use the OpenCore/Utilities/LegacyBoot/BootInstall_X64.too
 3. Select the disk you want to make a bootable
 
 Then you have to generate SMBIOS
+
+I'm using wireless PCI card with MacOS native support, so take into account that LN board is not working and you have to fix it by yourself in post install.
